@@ -1,0 +1,8 @@
+{
+  "launch": 
+	[
+		{"name": "Noodle","price":23,"calories":700},
+		{"name": "Rice","price":42,"calories":500},
+		{"name": "Steak","price":133,"calories":600}		
+  ]
+}
